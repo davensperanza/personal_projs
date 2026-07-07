@@ -8,7 +8,7 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Local folder (VERY IMPORTANT)
+# Local folder 
 no_push/
 
 # Data files
